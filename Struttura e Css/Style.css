@@ -7,6 +7,10 @@ nav {
  background-color: var(--bg-nav);
 }
 
+.test {
+    color: red;
+}
+
 main {
  background-color: orange;
 }
